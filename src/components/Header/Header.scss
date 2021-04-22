@@ -1,0 +1,21 @@
+@import '../../styles/shared/color.scss';
+.first-box {
+    border: 1px solid $primary-color;
+    color: $text-important;
+}
+.second-box {
+    border: 1px solid $primary-color;
+    color: $primary-color;
+}
+.third-box {
+    border: 1px solid $primary-color;
+    color: blue;
+}
+.fourth-box {
+    border: 1px solid $primary-color;
+    color: $text-important;
+}
+.fifth-box {
+    border: 1px solid $primary-color;
+    color: yellowgreen;
+}
